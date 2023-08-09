@@ -1,0 +1,33 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    background-color: orangered;
+}
+.main{
+    width:40%;
+    border:2px soild red;
+    min-height: 50vh;
+    margin-top:20vh ;
+    margin-inline: auto;
+}
+.result1{
+    width:100%;
+    min-height: 8vh;
+    border-radius: 6px;
+    font-size: 1.5vmax;
+    color:rgb(8, 7, 7);
+}
+
+button{
+    width:16%;
+    min-height: 8vh;
+    border-radius: 6px;
+    margin-top: 0.2vh;
+    background-color: green;
+    font-size:1.5vmax;
+    color:white;
+
+}
